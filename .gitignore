@@ -1,0 +1,12 @@
+# execute files
+*.exe
+
+# vim swp files
+*.swp
+
+# hint file
+.jshintrc
+
+# Dependency directories
+node_modules
+
