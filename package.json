@@ -1,0 +1,25 @@
+{
+  "name": "update-shadow-socks",
+  "version": "1.0.0",
+  "description": "update server information from some websites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/undeadmouse/update-shadow-socks.git"
+  },
+  "keywords": [
+    "shadow-socks"
+  ],
+  "author": "undeadmouse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/undeadmouse/update-shadow-socks/issues"
+  },
+  "homepage": "https://github.com/undeadmouse/update-shadow-socks#readme",
+  "dependencies": {
+    "request": "~2.75.0"
+  }
+}
